@@ -18,7 +18,7 @@
     },
     "dependencies": {
         "bootstrap-vue": "^2.23.1",
-        "firebase": "^6.3.1",
+        "firebase": "^10.8.0",
         "laravel-echo": "^1.4.1",
         "moment": "^2.29.4",
         "pusher-js": "^4.3.1",
